@@ -56,8 +56,11 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "You’re only young once, but you can be immature forever!"
-  - text: "I'm hungry"
-  - text: "Feed Me" 
+  - text: "Going to church doesn't make you a Christian any more than standing in a garage makes you a car."
+  - text: "War doesn't determine who's right. War determines who's left."
+  - text: "It's your god. They're your rules. *You* go to hell."
+  - text: "Give a man a match, and he'll be warm for a minute, but set him on fire, and he'll be warm for the rest of his life."
+  - text: "You work to live, not live to work."
 me-img: "/img/pizza.jpg"
 
 ##############################
