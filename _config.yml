@@ -31,7 +31,7 @@ force-https: True
 lang: "en"
 author: "Vincnetius Janssen"
 title: "{ Vincentius }"
-description: "Blog and website of Vincentius Janssen, blogging mainly for tech. Opinions expressed are mine."
+description: "Blog and website of Vincentius Janssen, mostly about tech, anime, and etc. Opinions expressed are mine."
 keywords: "janssen, vincentius, personal"
 favicon: "/img/favicon.ico"
 
@@ -100,7 +100,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "shirotobi"
 
 syntax-highlight: True
 
