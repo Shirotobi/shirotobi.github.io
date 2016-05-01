@@ -57,7 +57,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "You’re only young once, but you can be immature forever!"
   - text: "I'm hungry"
-  - text: "Feed 
+  - text: "Feed Me" 
 me-img: "/img/jetpacktocat.png"
 
 ##############################
