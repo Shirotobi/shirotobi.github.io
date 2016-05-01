@@ -57,7 +57,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "You’re only young once, but you can be immature forever!"
   - text: "I'm hungry"
-  - text: "Feed me"
+  - text: "Feed 
 me-img: "/img/jetpacktocat.png"
 
 ##############################
@@ -124,7 +124,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "vincent@oretachi.co"
 
 ################
 # Author Blurb #
@@ -134,7 +134,7 @@ email: "your@email.here"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "Vincentius Janssen is a level 15 hikikomori. He lives in Jakarta, where he works on school projects. In his spare time, Vincent likes to watch anime."
 author_blurb_image: "/img/author.png"
 
 ##################
