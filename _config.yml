@@ -137,7 +137,7 @@ email: "vincent@oretachi.co"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Vincentius Janssen is a level 15 hikikomori. He lives in Jakarta, where he works on school projects. In his spare time, Vincent likes to watch anime."
+author_blurb: "Vincentius Janssen is a level 15 hikikomori. He lives in Jakarta, where he works on his personal projects and does school. In his spare time, Vincent likes to watch anime, read manga, game, or just sleep."
 author_blurb_image: "/img/Typing.gif"
 
 ##################
