@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "You’re only young once, but you can be immature forever!"
   - text: "I'm hungry"
   - text: "Feed Me" 
-me-img: "https://plus.google.com/u/0/photos/115275823739521027987/albums/profile/6275952758369130290"
+me-img: "/img/pizza.jpg"
 
 ##############################
 # Color the browser elements #
