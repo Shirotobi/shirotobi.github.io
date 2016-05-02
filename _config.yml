@@ -71,8 +71,8 @@ me-img: "/img/Typing.gif"
 ##############################
 # Color the browser elements #
 ##############################
-color-browser: "#FFFFFF"
-apple-status-bar-style: "white"
+color-browser: "#000000"
+apple-status-bar-style: "black"
 
 ################
 # Web app mode #
