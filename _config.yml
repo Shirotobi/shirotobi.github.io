@@ -119,6 +119,7 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/bali1.jpg"
     date: "Oct 2016"
+    description: Fun @ Bali
   - image: "/img/timeline/spidertocat.png"
     date: "November 2015 - Jan 2016"
     description: "Being a retard!"
