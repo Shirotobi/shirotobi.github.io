@@ -117,8 +117,9 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/bali1.jpg"
   - image: "/img/timeline/spidertocat.png"
-    date: "November 2015 - Today"
+    date: "November 2015 - Jan 2016"
     description: "Being a retard!"
   - image: "/img/timeline/baracktocat.jpg"
     date: "September 2014 - August 2015"
