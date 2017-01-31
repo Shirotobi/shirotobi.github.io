@@ -117,7 +117,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/bali1.jpg"
+  - image: "/img/timeline/bali1.png"
     date: "Oct 2016"
     description: Fun @ Bali
   - image: "/img/timeline/spidertocat.png"
